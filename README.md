@@ -1,2 +1,2 @@
-django-test-app
+django-test-project
 ===============

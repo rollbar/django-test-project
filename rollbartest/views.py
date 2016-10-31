@@ -5,4 +5,5 @@ def index(request):
 
 
 def error(request):
-    foo()
+    # foo()
+    return HttpResponse('Default Error Response')
